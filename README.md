@@ -15,10 +15,11 @@
   </a>
 </p>
 
+<!--
 <p align="center">
   <img src="github/logo.png">
 </p>
-
+-->
 ---
 
 ## Projeto
@@ -28,7 +29,7 @@ O desenvolvimento ocorreu durante a Next Level Week da [Rocketseat](https://rock
 <br>
 
 ---
-- ## :computer: Web
+- ## :computer: ****
 <p align="center">
   <img src="github/imagem.gif">
 </p>
