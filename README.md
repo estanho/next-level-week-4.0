@@ -41,6 +41,8 @@ Esse projeto utilizou as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
+- [Sqlite3](https://www.npmjs.com/package/sqlite3)
+- [typeORM](https://typeorm.io/#/)
 
 ---
 ## Licença
