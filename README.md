@@ -43,7 +43,7 @@ Esse projeto utilizou as seguintes tecnologias:
 - [Express](https://expressjs.com/pt-br/)
 - [Sqlite3](https://www.npmjs.com/package/sqlite3)
 - [typeORM](https://typeorm.io/#/)
-- [jestjs](https://jestjs.io/)
+- [Jest](https://jestjs.io/)
 
 ---
 ## Licença
