@@ -35,7 +35,7 @@ O desenvolvimento ocorreu durante a Next Level Week #4 da [Rocketseat](https://r
 - **23/Fevereiro:** Banco de Dados :heavy_check_mark:
 - **24/Fevereiro:** Testando a nossa aplicação :heavy_check_mark:
 - **25/Fevereiro:** Envio de e-mail :heavy_check_mark:
-- **26/Fevereiro:** Finalizando nossa api com validações
+- **26/Fevereiro:** Finalizando nossa api com validações :heavy_check_mark:
 
 ---
 

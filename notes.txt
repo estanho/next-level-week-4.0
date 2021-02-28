@@ -1,10 +1,8 @@
-/*
- * GET => Busca
- * POST => Salvar
- * PUT => Alterar
- * DELETE => Deletar
- * PATCH => Alteração especifica
-*/
+GET => Busca
+POST => Salvar
+PUT => Alterar
+DELETE => Deletar
+PATCH => Alteração especifica
 
 // https://localhost:3333/users
 
@@ -12,9 +10,22 @@ app.get("/", (request, response) => {
     return response.json({ message: "Hello World - NLW 4.0" });
 });
 
-// 1 Params => Rota (Recurso API)
-// 2 Params => request, response
+1 Params => Rota (Recurso API)
+2 Params => request, response
 
 app.post("/", (resquest, response) => {
     return response.json({ message: "Os dados foram salvos com sucesso!" });
 });
+
+=================================
+
+Route Params => Parametros que compõe a rota
+
+routes.get("/answers/:value")
+
+Query Params => Busca, Paginação, não obrigatórios
+?
+chave=valor
+
+http://localhost:3333/answers/1?u=...
+                        ^^    ^^^^
