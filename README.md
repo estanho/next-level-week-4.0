@@ -55,6 +55,7 @@ Esse projeto utilizou as seguintes tecnologias:
 - [typeORM](https://typeorm.io/#/)
 - [Jest](https://jestjs.io/)
 - [Nodemailer](https://nodemailer.com/about/)
+- [Handlebars](https://handlebarsjs.com/)
 
 ---
 ## Licença
