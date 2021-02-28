@@ -44,6 +44,7 @@ Esse projeto utilizou as seguintes tecnologias:
 - [Sqlite3](https://www.npmjs.com/package/sqlite3)
 - [typeORM](https://typeorm.io/#/)
 - [Jest](https://jestjs.io/)
+- [Nodemailer](https://nodemailer.com/about/)
 
 ---
 ## Licença
