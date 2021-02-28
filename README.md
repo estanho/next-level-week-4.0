@@ -29,9 +29,10 @@ O desenvolvimento ocorreu durante a Next Level Week da [Rocketseat](https://rock
 <br>
 
 ---
-- ## :computer: ****
+
+- ## :computer: E-mail
 <p align="center">
-  <img src="github/imagem.gif">
+  <img src="github/email.png">
 </p>
 
 ---
