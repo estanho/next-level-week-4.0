@@ -25,12 +25,21 @@
 ## Projeto
 O projeto tem como objetivo a criação de uma **API REST** que possibilita a criação de pesquisas de satisfação com cadastro de perguntas e utilização de um API para o envio de emails para os clientes, assim tendo como resultado uma métrica de lealdade do cliente (NPS).
 
-O desenvolvimento ocorreu durante a Next Level Week da [Rocketseat](https://rocketseat.com.br/). :rocket:
+O desenvolvimento ocorreu durante a Next Level Week #4 da [Rocketseat](https://rocketseat.com.br/). :rocket:
 <br>
 
 ---
+## Etapas da Next Level Week #4
 
-- ## :mailbox_with_mail: Exemplo de e-mail
+- **22/Fevereiro:** Rumo ao próximo nível :heavy_check_mark:
+- **23/Fevereiro:** Banco de Dados :heavy_check_mark:
+- **24/Fevereiro:** Testando a nossa aplicação :heavy_check_mark:
+- **25/Fevereiro:** Envio de e-mail :heavy_check_mark:
+- **26/Fevereiro:** Finalizando nossa api com validações
+
+---
+
+## :mailbox_with_mail: Exemplo de e-mail
 <p align="center">
   <img src="github/email.png">
 </p>
