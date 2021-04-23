@@ -10,7 +10,7 @@
   <a href="https://github.com/estanho/next-level-week-4.0/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/estanho/next-level-week-4.0">
   </a>
-  <a href="https://github.com/estanho/next-level-week-2.0/blob/master/LICENSE">
+  <a href="https://github.com/estanho/next-level-week-4.0/blob/master/LICENSE">
     <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
   </a>
 </p>
